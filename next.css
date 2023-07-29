@@ -6,7 +6,9 @@ body{
  margin:0;
  padding:0;
  font-family: sans-serif;
- background: linear-gradient(#30142b, #2772a1);
+   background-image: url(fed.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 .login-page {
   width: 400px;
